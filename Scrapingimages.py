@@ -59,7 +59,7 @@ def download_images(url, save_folder):
 
 if __name__ == '__main__':
     # URL del dominio que deseas rastrear
-    domain_url = 'https://www.yalacanvaslodges.com/us/safari-tents/comet/'
+    domain_url = 'https://es.kampaoh.com/alojamientos/anza/'
 
     # Carpeta donde se guardarán las imágenes
     save_folder = 'downloaded_images'
